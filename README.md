@@ -1,5 +1,9 @@
 ### Hi there, I'm Salah Assana 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=SalahAssana)
+
+I am a Computer Science and Health enthusiast. Qualified and experienced at working as a Research Assistant & Software Engineer. I have worked with several laboratories at the University of Virginia, MIT and Harvard Medical School since 2015. Researching & Developing (R&D) in areas such as Human-Computer Interaction (HCI), Signal Processing and Health Informatics (HI). Also lecturing on those areas.
+
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SalahAssana)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/SalahAssana)
 [![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/FCalisto/)
@@ -21,15 +25,11 @@ https://hashnode.com/@SalahAssana)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNtLUA729o8o5XGiC7iTFxQ)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/888781?style=for-the-badge)](https://mastodon.social/@SalahAssana)
 
-I am a Computer Science and Health enthusiast. Qualified and experienced at working as a Research Assistant & Software Engineer. I have worked with several laboratories at the University of Virginia, MIT and Harvard Medical School since 2015. Researching & Developing (R&D) in areas such as Human-Computer Interaction (HCI), Signal Processing and Health Informatics (HI). Also lecturing on those areas.
-
 ## &#x270d; Blog & Writing
 
 Apart from being an Open Source'rer, I also write on [Medium](https://medium.com/@SalahAssana) and [DEV.to](https://dev.to/SalahAssana) platforms. Please, be free to follow my work there. Hope to help you!
 
 ## &#x1f4c8; GitHub Stats
-
-![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=SalahAssana)
 
 <a href="https://github.com/SalahAssana/SalahAssana">
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalahAssana&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
