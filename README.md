@@ -1,6 +1,10 @@
-### Hi there, I'm Salah Assana 👋
-
 ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=SalahAssana)
+![ProfileViews](https://komarev.com/ghpvc/?username=SalahAssana)
+[![Last commit](https://img.shields.io/github/last-commit/mida-project/prototype-multi-modality-assistant?style=flat-square)](https://github.com/mida-project/prototype-multi-modality-assistant/commits/master)
+[![OpenCollective](https://opencollective.com/oppr/backers/badge.svg?style=flat-square)](#backers)
+[![OpenCollective](https://opencollective.com/oppr/sponsors/badge.svg?style=flat-square)](#sponsors)
+
+### Hi there, I'm Salah Assana 👋
 
 I am a Computer Science and Health enthusiast. Qualified and experienced at working as a Research Assistant & Software Engineer. I have worked with several laboratories at the University of Virginia, MIT and Harvard Medical School since 2015. Researching & Developing (R&D) in areas such as Human-Computer Interaction (HCI), Signal Processing and Health Informatics (HI). Also lecturing on those areas.
 
