@@ -41,10 +41,6 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 ## &#x1f4c9; CodersRank Stats
 
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=SalahAssana&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
-
-<img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=SalahAssana&skills=Apex,C,C++,CSS,HTML,JSON,Java,JavaScript,Less,MATLAB,Makefile,PHP,Python,SCSS,Shell&show-other-skills=true"
 />
 
