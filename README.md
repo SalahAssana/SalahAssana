@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=SalahAssana)
 ![ProfileViews](https://komarev.com/ghpvc/?username=SalahAssana)
-[![Last commit](https://img.shields.io/github/last-commit/mida-project/prototype-multi-modality-assistant?style=flat-square)](https://github.com/mida-project/prototype-multi-modality-assistant/commits/master)
+[![Last commit](https://img.shields.io/github/last-commit/mida-project/prototype-multi-modality-assistant?style=flat-square)](https://github.com/SalahAssana/SalahAssana/commits/main)
 [![OpenCollective](https://opencollective.com/oppr/backers/badge.svg?style=flat-square)](#backers)
 [![OpenCollective](https://opencollective.com/oppr/sponsors/badge.svg?style=flat-square)](#sponsors)
 
