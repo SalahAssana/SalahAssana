@@ -1,6 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=SalahAssana)
 ![ProfileViews](https://komarev.com/ghpvc/?username=SalahAssana)
-[![Last commit](https://img.shields.io/github/last-commit/mida-project/prototype-multi-modality-assistant?style=flat-square)](https://github.com/mida-project/prototype-multi-modality-assistant/commits/master)
+[![Last commit](https://img.shields.io/github/last-commit/mida-project/prototype-multi-modality-assistant?style=flat-square)](https://github.com/SalahAssana/SalahAssana/commits/main)
 [![OpenCollective](https://opencollective.com/oppr/backers/badge.svg?style=flat-square)](#backers)
 [![OpenCollective](https://opencollective.com/oppr/sponsors/badge.svg?style=flat-square)](#sponsors)
 
@@ -10,8 +10,8 @@ I am a Computer Science and Healthcare enthusiast with a background in research 
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SalahAssana)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/SalahAssana)
-[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/FCalisto/)
-[![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2371987/francisco-maria-calisto)
+[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
+[![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7297767/salah-assana)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@SalahAssana)
 [![DEV Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](
@@ -27,7 +27,7 @@ https://hashnode.com/@SalahAssana)
 [![Blogger Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blogspot.com/)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/888781?style=for-the-badge)](https://mastodon.social/)
+<!-- [![Mastodon Follow](https://img.shields.io/mastodon/follow/888781?style=for-the-badge)](https://mastodon.social/) -->
 
 ## &#x270d; Blog & Writing
 
