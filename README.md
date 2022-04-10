@@ -46,6 +46,11 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+## Contributed Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HMS-CardiacMR&repo=MyoMapNet)](https://github.com/HMS-CardiacMR/MyoMapNet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HMS-CardiacMR&repo=RealTimeCine)](https://github.com/HMS-CardiacMR/RealTimeCine)
+
 <!-- ## &#x1f4c9; CodersRank Stats
 
 <img
