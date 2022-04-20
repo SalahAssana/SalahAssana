@@ -6,7 +6,10 @@
 
 ### Hi there, I'm Salah Assana 👋
 
-I am a Computer Science and Healthcare enthusiast with a background in research and software engineering. I have worked as a Research Assistant (RA) since 2015 at several laboratories including UVA, MIT and HMS. My research spans across signal processing, machine learning and medical imaging. I have published to ACM conferences including UbiComp and MobiCom as well as medical journals including JACC, JCMR and ISMRM.
+I am a Computer Science and Healthcare enthusiast with a background in research and software engineering. I have worked as a Research Assistant (RA) since 2015 at several laboratories including [UVA Link Lab](https://engineering.virginia.edu/link-lab), [MIT Media Lab](https://www.media.mit.edu/) and [HMS Cardiac MR Center](https://cardiacmr.hms.harvard.edu/). My research spans across signal processing, machine learning and medical imaging. I have published to ACM conferences including UbiComp and MobiCom as well as medical journals including JACC, JCMR and ISMRM.
+
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-HackerRank?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/SalahAssana)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/SalahAssana)
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SalahAssana)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/SalahAssana)
@@ -31,7 +34,7 @@ https://hashnode.com/@SalahAssana)
 
 ## &#x270d; Blog & Writing
 
-Apart from being an Open Source'rer, I also write on [Medium](https://medium.com/) and [DEV.to](https://dev.to/) platforms. Please, be free to follow my work there. Hope to help you!
+Apart from being an Open Source'rer, I also write on [Medium](https://medium.com/@SalahAssana) and [DEV.to](https://dev.to/) platforms. Please, be free to follow my work there. Hope to help you!
 
 ## &#x1f4c8; GitHub Stats
 
