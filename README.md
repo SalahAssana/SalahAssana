@@ -39,10 +39,10 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/SalahAssana/SalahAssana">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalahAssana&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="200px" align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=SalahAssana&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/SalahAssana/SalahAssana">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=SalahAssana&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Salah's GitHub Stats" />
+  <img height="200px" align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=SalahAssana&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Salah's GitHub Stats" />
 </a>
 
 ## &#x1f4c9; GitHub Profile Contributions
@@ -51,8 +51,8 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 
 ## Contributed Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HMS-CardiacMR&repo=MyoMapNet)](https://github.com/HMS-CardiacMR/MyoMapNet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HMS-CardiacMR&repo=RealTimeCine)](https://github.com/HMS-CardiacMR/RealTimeCine)
+[![Readme Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=HMS-CardiacMR&repo=MyoMapNet)](https://github.com/HMS-CardiacMR/MyoMapNet)
+[![Readme Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=HMS-CardiacMR&repo=RealTimeCine)](https://github.com/HMS-CardiacMR/RealTimeCine)
 
 <!-- ## &#x1f4c9; CodersRank Stats
 
