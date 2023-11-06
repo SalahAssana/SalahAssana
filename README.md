@@ -6,10 +6,12 @@
 
 ### Hi there, I'm Salah Assana 👋
 
-I am a Computer Science and Healthcare enthusiast with a background in research and software engineering. I have worked as a Research Assistant (RA) since 2015 at several laboratories including [UVA Link Lab](https://engineering.virginia.edu/link-lab), [MIT Media Lab](https://www.media.mit.edu/) and [HMS Cardiac MR Center](https://cardiacmr.hms.harvard.edu/). My research spans across signal processing, machine learning and medical imaging. I have published to ACM conferences including UbiComp and MobiCom as well as medical journals including JACC, JCMR and ISMRM.
+I am a Artificial Intelligence and Healthcare enthusiast with a background in machine learning, signal processing and medical imaging. I have worked as a Research Assistant (RA) since 2015 at several laboratories including [UVA Link Lab](https://engineering.virginia.edu/link-lab), [MIT Media Lab](https://www.media.mit.edu/) and [HMS Cardiac MR Center](https://cardiacmr.hms.harvard.edu/).
 
-[![HackerRank Badge](https://img.shields.io/badge/HackerRank-HackerRank?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/SalahAssana)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/SalahAssana)
+I have published in ACM conferences [UbiComp](https://dl.acm.org/conference/ubicomp) and [MobiCom](https://dl.acm.org/conference/mobicom). As well as medical conference including [ISMRM](https://www.ismrm.org/) and [SCMR](https://scmr.org/).
+
+I have also published to several journal including [Radiology](https://pubs.rsna.org/journal/radiology), [MRM](https://onlinelibrary.wiley.com/journal/15222594), [JMRI](https://onlinelibrary.wiley.com/journal/15222586), [JCMR](https://jcmr-online.biomedcentral.com/), [JACC](https://www.jacc.org/journal/imaging), and [NMR in Biomedicine](https://analyticalsciencejournals.onlinelibrary.wiley.com/journal/10991492).
+
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SalahAssana)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/SalahAssana)
@@ -20,7 +22,7 @@ I am a Computer Science and Healthcare enthusiast with a background in research 
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](
 https://hashnode.com/@SalahAssana)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SalahAssana)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SalahAssana/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
@@ -34,7 +36,7 @@ https://hashnode.com/@SalahAssana)
 
 ## &#x270d; Blog & Writing
 
-Apart from being an Open Source'rer, I also write on [Medium](https://medium.com/@SalahAssana) and [DEV.to](https://dev.to/) platforms. Please, be free to follow my work there. Hope to help you!
+Apart from being an Open Source'rer, I also write on [Medium](https://medium.com/) and [DEV.to](https://dev.to/) platforms. Please, be free to follow my work there. Hope to help you!
 
 ## &#x1f4c8; GitHub Stats
 
@@ -53,6 +55,8 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HMS-CardiacMR&repo=MyoMapNet)](https://github.com/HMS-CardiacMR/MyoMapNet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HMS-CardiacMR&repo=RealTimeCine)](https://github.com/HMS-CardiacMR/RealTimeCine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HMS-CardiacMR&repo=DENT)](https://github.com/HMS-CardiacMR/DENT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HMS-CardiacMR&repo=REGAIN)](https://github.com/HMS-CardiacMR/REGAIN)
 
 <!-- ## &#x1f4c9; CodersRank Stats
 
