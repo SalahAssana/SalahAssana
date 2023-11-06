@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=SalahAssana)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=SalahAssana.visitor-badge)
 ![ProfileViews](https://komarev.com/ghpvc/?username=SalahAssana)
 [![Last commit](https://img.shields.io/github/last-commit/mida-project/prototype-multi-modality-assistant?style=flat-square)](https://github.com/SalahAssana/SalahAssana/commits/main)
 [![OpenCollective](https://opencollective.com/oppr/backers/badge.svg?style=flat-square)](#backers)
@@ -55,8 +55,8 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HMS-CardiacMR&repo=MyoMapNet)](https://github.com/HMS-CardiacMR/MyoMapNet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HMS-CardiacMR&repo=RealTimeCine)](https://github.com/HMS-CardiacMR/RealTimeCine)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HMS-CardiacMR&repo=DENT)](https://github.com/HMS-CardiacMR/DENT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HMS-CardiacMR&repo=REGAIN)](https://github.com/HMS-CardiacMR/REGAIN)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HMS-CardiacMR&repo=DENT)](https://github.com/HMS-CardiacMR/DENT)
 
 <!-- ## &#x1f4c9; CodersRank Stats
 
