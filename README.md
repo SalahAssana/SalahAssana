@@ -51,7 +51,7 @@ Apart from being an Open Source'rer, I also write on [Medium](https://medium.com
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HMS-CardiacMR&repo=MyoMapNet)](https://github.com/HMS-CardiacMR/MyoMapNet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HMS-CardiacMR&repo=RealTimeCine)](https://github.com/HMS-CardiacMR/RealTimeCine)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HMS-CardiacMR&repo=REGAIN)](https://github.com/HMS-CardiacMR/REGAIN)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HMS-CardiacMR&repo=DENT)](https://github.com/HMS-CardiacMR/DENT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HMS-CardiacMR&repo=CineROI)](https://github.com/HMS-CardiacMR/CineROI)
 
 <!-- ## &#x1f4c9; CodersRank Stats
 
