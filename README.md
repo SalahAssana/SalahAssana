@@ -41,7 +41,7 @@ Please, be free to follow my work there. Hope to help you!
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/SalahAssana/SalahAssana">
-  <img height="200px" align="center" src="https://github-readme-stats-nu-nine-96.vercel.app/api/top-langs/?username=SalahAssana&layout=compact&langs_count=6&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="200px" align="center" src="https://github-readme-stats-nu-nine-96.vercel.app/api/top-langs/?username=SalahAssana&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/SalahAssana/SalahAssana">
   <img height="200px" align="center" src="https://github-readme-stats-nu-nine-96.vercel.app/api?username=SalahAssana&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Salah's GitHub Stats" />
@@ -72,5 +72,6 @@ Please, be free to follow my work there. Hope to help you!
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=SalahAssana&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
  -->
+
 
 
