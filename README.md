@@ -49,7 +49,7 @@ Apart from being a reearcher and programm, I also write on [Medium](https://medi
 
 ## &#x1f4c9; GitHub Profile Contributions
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
 
 ## Contributed Repositories
 
@@ -72,6 +72,7 @@ Apart from being a reearcher and programm, I also write on [Medium](https://medi
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=SalahAssana&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
  -->
+
 
 
 
