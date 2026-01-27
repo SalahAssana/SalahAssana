@@ -34,7 +34,7 @@ https://hashnode.com/@SalahAssana) -->
 
 ## &#x270d; Blog & Writing
 
-Apart from being a reearcher and programm, I also write on [Medium](https://medium.com/@SalahAssana). Please checkout my latest articles below!
+Apart from being a researcher and programmer, I also write on [Medium](https://medium.com/@SalahAssana). Please check out my latest articles below!
 
 [<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SalahAssana/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@SalahAssana/1" alt="Recent Article">](https://medium.com/@SalahAssana/a-beginners-guide-to-the-intraclass-correlation-coefficient-icc-288f7fe7bcfc)
 
@@ -72,6 +72,7 @@ Apart from being a reearcher and programm, I also write on [Medium](https://medi
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=SalahAssana&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
  -->
+
 
 
 
