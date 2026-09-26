@@ -6,7 +6,7 @@
 
 ### Hi there, I'm Salah Assana 👋
 
-I am an Artificial Intelligence and Healthcare enthusiast with a background in machine learning, signal processing and medical imaging. I have worked as a Research Assistant (RA) since 2015 at several laboratories including the [UVA Link Lab](https://engineering.virginia.edu/link-lab), [MIT Media Lab](https://www.media.mit.edu/) and [HMS Cardiac MR Center](https://cardiacmr.hms.harvard.edu/). My work has been published to several journals and conferences including JMRI, MRM, Radiology, ISMRM, MobiCom, and UbiComp.
+I am a researcher working on physics-exact machine learning for medical imaging. Image reconstruction and analysis are inverse problems governed by known physical laws, yet most learned methods treat that physics merely as a soft prior. My research builds architectures where physical acquisition laws operate as immutable constraints within the network itself. Clinical adoption demands machine learning that is strictly free from hallucinations, and embedding exact physics is how we bridge the gap between deep learning and trusted diagnostic tools.
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/SalahAssana)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/SalahAssana/)
